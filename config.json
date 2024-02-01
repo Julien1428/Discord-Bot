@@ -1,0 +1,19 @@
+{
+    "token": "#",
+    "prefix": "j!",
+    "greeting": {
+        "channel": "#",
+        "role": "#"
+        
+    },
+    "serverStats": {
+        "Members": "#",
+        "bots": "#",
+        "allMembers": "#"
+    },
+    "ticket": {
+        "category": "#",
+        "roles": ["#"]
+    },
+    "logs": "#"
+}
