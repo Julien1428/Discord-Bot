@@ -15,7 +15,7 @@ Ce projet est une création en JavaScript que j'ai réalisée quand j'étais en 
 
   ## Informations suplémentaires
 
-  -Je vous montrerais dans un autre projets le site web que j'ai crée pour ce même bot discord
+  -Je vous montrerais dans un autre projet le site web que j'ai créé pour ce même bot discord
 
 ## Auteur
 
