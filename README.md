@@ -1,4 +1,4 @@
-#Discord-Bot
+  ## Discord-Bot
 
 
 Ce projet est une création en JavaScript que j'ai réalisée quand j'étais en 3ème. Il s'agit d'un robot qui facilite la modération d'un serveur Discord et permet également de jouer à des jeux.
