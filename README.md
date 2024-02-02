@@ -11,7 +11,7 @@ Ce projet est une création en JavaScript que j'ai réalisée quand j'étais en 
 
 ## Utilisation
 
-- Malheureusement ce bot n'est plus à jour depuis car de nouvelles versions de discorddjs est sortie entre-temps
+- Malheureusement ce bot n'est plus à jour depuis car de nouvelles versions de discord.js est sortie entre-temps
 
   ## Informations suplémentaires
 
