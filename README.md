@@ -13,7 +13,7 @@ Ce projet est une création en JavaScript que j'ai réalisée quand j'étais en 
 
 - Malheureusement ce bot n'est plus à jour depuis car de nouvelles versions de discord.js sont sortie entre-temps
 
-  ## Informations suplémentaires
+  ## Informations supplémentaires
 
   -Je vous montrerais dans un autre projet le site web que j'ai créé pour ce même bot discord
 
